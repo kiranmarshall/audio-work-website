@@ -112,7 +112,6 @@ nav {
   opacity: 0.8;
 
   z-index: -1;
-
 }
 
 p a {
@@ -342,6 +341,11 @@ h2 {
 
 .skills-individ {
   padding-bottom: 1em;
+}
+
+.skills-individ a {
+  color: white;
+  text-decoration: underline !important;
 }
 
 .skills-heading {
